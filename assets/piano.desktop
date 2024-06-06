@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Piano
+Exec=/bin/piano
+Type=Application
+Categories=Utility;Audio;Music;Game;
